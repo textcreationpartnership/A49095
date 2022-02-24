@@ -1,0 +1,506 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons flames discovered by informations taken before the Committee Appointed to Enquire after the Burning of the City of London and after the insolency of the papists, &amp;c.</title>
+            <author>England and Wales. Parliament. House of Commons. Committee to Enquire into the Burning of London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49095</idno>
+            <idno type="STC">Wing L2928</idno>
+            <idno type="STC">ESTC R923</idno>
+            <idno type="EEBO-CITATION">13657037</idno>
+            <idno type="OCLC">ocm 13657037</idno>
+            <idno type="VID">101043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons flames discovered by informations taken before the Committee Appointed to Enquire after the Burning of the City of London and after the insolency of the papists, &amp;c.</title>
+                  <author>England and Wales. Parliament. House of Commons. Committee to Enquire into the Burning of London.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:101043:1"/>
+               <pb facs="tcp:101043:1" rendition="simple:additions"/>
+Londons Flames Diſcovered by INFORMATIONS Taken before the COMMITTEE, Appointed to Enquire after the Burning of the CITY OF LONDON.</p>
+            <p>And after the Inſolency OF THE PAPISTS, &amp;c,</p>
+            <p>LONDON, Printed in the Year, 1667.</p>
+            <pb facs="tcp:101043:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:101043:2"/>
+            <head>INFORMATIONS Taken from the COMMITTEE, &amp;c. <hi>In a Letter from</hi> Alanzon <hi>of the</hi> 23<hi rend="sup">d</hi>. Auguſt <hi>New<g ref="char:EOLhyphen"/>ſtile, Written from one</hi> Dural, <hi>to a Gentleman in the houſe of one of the Miniſters of the</hi> French<hi>-Church in</hi> London, <hi>called Mounſieur</hi> Heralt, <hi>there were theſe Expreſſions,</hi> viz.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Ray acquaint me with the truth of certain News, which is common in this Country, that Fire from Heaven is fallen upon a City called <hi>Balke,</hi> ſcituate on the ſide of the River of <hi>Thames;</hi> where a world of people have been killed and burned, and houſes alſo conſumed. Whiich ſeems a word of <hi>Caball</hi> caſt out by ſome that were knowing, and others that might be ignorant of the Signification of it.</p>
+            <p>
+               <hi>Mrs. Elizabeth Styles</hi> ſaith, That in <hi>April</hi> laſt in an angry diſpute ſhe had with a <hi>French</hi> Servant of Sir <hi>Vere Vanes,</hi> He haſtily replyed. <hi>You Engliſh Maidens will like the</hi> French-men <hi>better, when there is not an Houſe left between</hi> London-bridge <hi>and</hi> Temple-Barre, which ſhe anſwering, <hi>I hope your eyes will never ſee that,</hi> He replyed, <hi>This will come to paſs between</hi> June <hi>and</hi> December.</p>
+            <p>
+               <hi>William Tiſdale</hi> informes, that he being about the beginning of <hi>July,</hi> at the <hi>Grey-hound</hi> in St. <hi>Martins,</hi> with one <hi>Fitz Harris</hi> an <hi>Iriſh</hi> Papiſt, He heard him ſay; <hi>There will be a ſad deſolation in</hi> September, <hi>and in</hi> November <hi>a worſe.</hi> In
+<pb n="2" facs="tcp:101043:3"/>
+December <hi>all will be united into one,</hi> whereupon he asked where this deſolation would be, he anſwered him, <hi>in London.</hi>
+            </p>
+            <p>Mr. <hi>Lite</hi> of <hi>Ratcliff,</hi> having ſome diſcourſe with one Mr. <hi>Langorne</hi> of the mid<g ref="char:EOLhyphen"/>dle <hi>Temple,</hi> Barriſter, reputed a zealous Papiſt; about <hi>February</hi> laſt, after ſome diſcourſe in diſputing about Religion, be took him by the hand and ſaid to him, <hi>You expect great things in</hi> 1666, <hi>and think that</hi> Rome <hi>will be deſtroyed, but what if it be</hi> London?</p>
+            <p>One <hi>Kiteley</hi> of <hi>Barking</hi> in <hi>Eſſex,</hi> informs that one <hi>Yaxley</hi> a Papiſt of <hi>Ilford</hi> in the ſaid County, came into their Houſe <hi>Auguſt</hi> the <hi>13th.</hi> being in diſcourſe with his Mother; ſaid, <hi>They ſay that next Thurſday, will be the Hotteſt day that ever was in</hi> England, She replyed, <hi>I hope the hottest ſeaſon of the year is now paſt,</hi> To which he anſwered, <hi>I know not whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her it be the hotteſt for Weather or Action:</hi> The ſaid <hi>Yaxley,</hi> coming to the ſame Houſe, the week after the Fire, Mr. <hi>Kitely</hi> ſaid to him, with ſome trouble; <hi>I have often thought upon your hot Thurſday,</hi> To which ſhe replyed, <hi>It was not indeed upon the Thurſday, but it hapned upon the Sunday come ſennight after;</hi> Mr. <hi>Yaxley</hi> hearing theſe evidences produced againſt her, endeavoured to avoid the words, ſaying, that upon the <hi>13th.</hi> of <hi>Auguſt</hi> ſhe did tell Mr. <hi>Kiteley, That they ſay next Thurſday, will be the darkeſt Thurſday, that ever was in</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>but not otherwiſe;</hi> Which ſhe affirms to have received from one <hi>Fynchman;</hi> an old woman of <hi>Ilford,</hi> next being examined before a Juſtice of Peace, to diſcover the Truth thereof, denyed that ever ſhe ſaid any ſuch words to Mrs. <hi>Yaxley,</hi> or that ſhe had any diſcourſe with her about any ſuch matter, as to the ſubſequent words, ſhe the ſaid <hi>Yaxley</hi> denyed ever to have ſpoken them, but Mr. <hi>Kiteley</hi> offered in her preſence, if it ſhould be demanded, to bring his Mother and Wife to teſtifie the ſame.</p>
+            <p>
+               <hi>William Ducket</hi> Member of the Houſe, Informs that one <hi>Henry Baker</hi> of <hi>Chipnam,</hi> in the County of <hi>Willis,</hi> coming from Market with one <hi>John Woodman</hi> of <hi>Rel<g ref="char:EOLhyphen"/>loway</hi> in the ſame County, the Thurſday before the fire began in <hi>London,</hi> they had ſome diſcourſe about buying a yoke of fat Bullocks, wherein they differed, becauſe <hi>Woodman</hi> who was to ſell them, was deſired to keep them a while in his hands, but the ſaid <hi>Woodman</hi> denyed ſo to do, for that as he alleaged, he would not ſtay in the Country till that time, on which <hi>Baker</hi> would have them delivered to him, and be<g ref="char:EOLhyphen"/>ing asked where he was going? he refuſed to tell; asking, <hi>What he had to do to make that queſtion?</hi> And riding a little farther, the ſaid <hi>Woodman</hi> expreſſed theſe words; <hi>You brave blades of Chipnam, you made Bonfiers lately for beating the Dutch, but ſince you delight in Bonfires, you ſhall have your belly full of them ere it be long;</hi> adding, <hi>that if he lived one week longer, he ſhould ſee</hi> London <hi>as ſad a</hi> London <hi>as ever it was ſince the world began, and in ſome ſhort time after, he ſhould ſee as bloody a time in</hi> England, <hi>as ever was ſince</hi> England <hi>was</hi> England<hi>:</hi> This diſcourſe was not much taken notice of, at that time when it was ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken; but when the City of <hi>London</hi> was burning, the ſaid <hi>Henry Baker</hi> gave this information to the ſaid <hi>Ducket;</hi> and hereupon iſſued out a Warrant to ap<g ref="char:EOLhyphen"/>prehend <hi>Woodman,</hi> but he was gone out of the Country, and cannot be heard of ſince</p>
+            <p>
+               <hi>Robert Hubert,</hi> of <hi>Roane</hi> in <hi>Normandy,</hi> who acknowledged that he was one of thoſe that fired the houſe of Mr. <hi>Farmer</hi> a Baker in <hi>Pudding lane,</hi> from whence the fire had its beginning; confeſſes, that he came out of <hi>France</hi> with one <hi>Stephen Pedilow,</hi> about four Months before the fire began in <hi>London,</hi> and went into
+<pb n="3" facs="tcp:101043:3"/>
+               <hi>Sweedland</hi> with him, where he ſtayed alſo with him as his companion four months, and then they came together into <hi>England</hi> in a Sweediſh Ship, called the <hi>Skipper,</hi> where he ſtayed on board with the ſaid <hi>Pedilow,</hi> till that Satturday night on which the fire break out, where <hi>Pedilow</hi> taking him out of the Ship, carrying him into <hi>Pudding-lane,</hi> and he being earneſt to know whether he was carrying him? he would not ſatisfie him, till he brought him to the place, and then he told him that he had brought three Balls, and gave him one of them into his hand to throw into the Houſe, and he would have been farther ſatisfied of the deſign, as he ſaid before he would execute it; but <hi>Pedilow</hi> was ſo impatient that he would not hear him, and then he did the fact, which was, that he put a Fireball at the end of a long pole, and lighting it with a peice of match, to put it in at a window, and ſtayed till he ſaw the houſe on a flame; he confeſſes there was three Complices, whereof <hi>Pedilow</hi> was the cheif</p>
+            <p>Mr <hi>Graves,</hi> a French Merchant living in St. <hi>Mary-ax</hi> informs; That he had known <hi>Hubert</hi> ever ſince he was four year old, and he ever obſerved him to be a perſon of a miſchevious inclination, and therefore fit for any villanous enterpriſe, and becauſe of the knowledge he had of him, he went to viſit him in Priſon, when he ſaw him he could not but commiſerate his condition, wherein he had brought him<g ref="char:EOLhyphen"/>ſelf; and for his better diſcovery of the fact, he told him the ſaid <hi>Hubert,</hi> that he did not believe that he had done that fact which he had confeſſed guilty of, to which <hi>Hubert</hi> replyed, <hi>Yes I am guilty of it, and have been brought to it by the infli<g ref="char:EOLhyphen"/>gation of</hi> Pedilowe, <hi>but not out of any mallice to the Engliſh Nation, but from a deſire of that Reward he promiſed me, upon my return into</hi> France. [It is obſer<g ref="char:EOLhyphen"/>vable that this miſerable Creature, who confeſſed himſelf before the Commiſſioners to be a Proteſtant, was a Papiſt, and dyed ſo;] and the aforeſaid <hi>Pedilow,</hi> the ſaid Mr. <hi>Graves</hi> informs, that he had a full knowledge of him, and knew him to be a very deboiſt perſon, and acute to any wicked deſign; and moreover for a clearer conviction of the guilt of the foreſaid <hi>Hubert, Lowman</hi> the Keeper of the <hi>White-Lyon,</hi> was commanded to ſet him upon an Horſe, and go with him to ſee if he could finde out the place where he threw the fire-ball; upon which <hi>Hubert,</hi> with more readineſs then thoſe who were well acquainted with the place, went to <hi>Pudding lane</hi> where the very Houſe which was firſt fired ſtood; ſaying, <hi>Here ſtood the Houſe,</hi> the Jaylor did endeavour to draw him off from that beleif, and put him upon ſeeking for ſome other place, but he poſitively perſiſted in what he firſt ſaid, and affi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med that to have been the ſaid houſe: It being intimated to the Committee, that not<g ref="char:EOLhyphen"/>withſtanding the confeſſion of the ſaid <hi>Hubert,</hi> it was confidently reported, that the fire in the forementioned <hi>Farmers</hi> his houſe began by accident, ſo the Commiſſioners ſent for him the ſaid <hi>Farmer</hi> before them, who being examined ſaid, <hi>That it was impoſſible that any fire ſhould happen in his ſaid houſe by accident;</hi> for he ſaid. <hi>After twelve of the clock at Night, he had gone through every Room thereof, and found no fire but in one Chimny, where the room was paved with brick, which fire he dilligently raked up in the Embers;</hi> He was then asked, whether no window or door might let in wind to diſplace thoſe Coales; He affirmed, <hi>There was no capa<g ref="char:EOLhyphen"/>city for any wind to diſturb them, and that it was abſolutely ſet on fire on pur<g ref="char:EOLhyphen"/>poſe.</hi>
+            </p>
+            <p>
+               <hi>Dawes Williamſon</hi> 
+               <abbr>Esq</abbr> one of his Majeſties Juſtices of the Peace informs. That he ſaw a man apprehended neer the Temple, with his pocket ſtuft withh combuſtible matter, made of Flax, and Towe, and ſuch like matter.</p>
+            <p>
+               <pb n="4" facs="tcp:101043:4"/>
+Dr. <hi>John Parker</hi> informs, That he ſaw a perſon throw ſome Combuſtible mat<g ref="char:EOLhyphen"/>ter into a ſhop in the <hi>Old-Bayly,</hi> which he thinks was the ſhop of an Apothecary, that immediately thereupon he ſaw a great ſmoak, and there was the ſmell of <hi>Brim<g ref="char:EOLhyphen"/>ſtone,</hi> the perſon that did this immediately ran away, but upon the outery of the people he was taken by the Guard.</p>
+            <p>
+               <hi>Randal Harſland,</hi> and <hi>Humphry Bowyer,</hi> they all agree, that they ſaw a perſon fling ſomething into a Houſe neere St <hi>Tant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings</hi> Church, and that thereupon the Houſe was on fire, and the ſmoak thereof filled the Houſe on the other ſide of the way, and when this was done there was no fire neere by a quarter of a mile.</p>
+            <p>
+               <hi>Michael March,</hi> an Officer of the Trained-bands in a Company of Sir <hi>Richard Browns,</hi> apprehended a woman in the time of the fire, at the <hi>Nags-head</hi> in <hi>Leaden-Hall-ſtreet,</hi> with an Inſtrument like a dark Lanthorne made, as is conceived, to lay a train of Powder, and it was fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led with Gunpowder, there was two more of the ſame <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in his Company, they being asked for what uſe they imployed the ſaid Inſtrument, they would give no account thereof.</p>
+            <p>
+               <hi>Nawſon Killingworth</hi> 
+               <abbr>Esq</abbr> informs, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he apprehended a perſon during the fire, about whom he found much combuſtible matter, and certain block things of a large figure, he could not indure to hold them in his hand by reaſon of their extream heat, this perſon was ſo ſurpriſed at firſt, that he could not anſwer to any queſtion, but being on his way to <hi>White Hall,</hi> he acted the part of a madman, ſo continuing whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e he was preſent with him</p>
+            <p>Sir <hi>John Maynard</hi> a Member of this Houſe, informs he had ſome of that Com<g ref="char:EOLhyphen"/>buſtible matter in his hand, and though it was in its natural conſiſtency unfired, yet the heat was ſcarce to be endured by the touch.</p>
+            <p>Mr. <hi>Freeman</hi> of <hi>Southwark</hi> Brewer, whoſe houſe there was lately burned, informs that on the day his houſe was fired, being a quarter of an hour before three, hap<g ref="char:EOLhyphen"/>ned a paper with a ball of wildfire, containing neer a pound wrapt up in it in the nave of a wheel, in an outer houſe where lay a great quantity of Timber, how this houſe was fired he knoweth not; but this he affirms to the Committee, it could not be by accident, becauſe there had not been any candile or fire in the houſe where the Haye lay that whole day, and the Hay being laid up before Midſomer very dry, it could not poſſible be ſet on fire within it ſelf, and moreover he ſaid the Hay-lof<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was on fire on the top of the houſe, and that the fire ſpread from one end of the roof to the other in an inſtant</p>
+            <p>Mr. <hi>Richard Harwood</hi> ſaith, <hi>I being nere the</hi> Feathers-Tavern <hi>by St</hi> Pauls, <hi>on the</hi> 4th. <hi>of</hi> September <hi>ſomething like wild-fire by the ſparkling and ſpitting of it, appeared, whereof he gave notice to ſome ſouldiers nere there, who cauſed it to be quenched.</hi>
+            </p>
+            <p>I had order from the Committee, that I traced ſeveral apprehended upon ſtrong ſuſpition during the fire, and committed to the Guard, but I could not make far<g ref="char:EOLhyphen"/>ther diſcovery of them.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>HEaring that you are Chairman of the Committee, for examining the firing of <hi>London,</hi> I thought good to acquaint you with this information that I have received; <hi>William Champreſs</hi> Hat band-maker, now living on <hi>Horſey-down,</hi>
+                     <pb n="5" facs="tcp:101043:4"/>
+was upon Tueſday morning <hi>September</hi> 4<hi>th.</hi> 1666. in <hi>Shooe-lane,</hi> and there mee with a Conſtable, who had apprehended a <hi>French-man,</hi> whom he took firing an Houſe with fire balls, and charged the ſaid <hi>Champreſs</hi> to aſſiſt him, he carried the ſaid <hi>French-man</hi> to <hi>Salisbury-Court,</hi> but finding that burning down, he went in<g ref="char:EOLhyphen"/>to <hi>Fleet-ſtreet,</hi> and was preſently call'd upon by the Commander of the Guard, to know what the matter was, the Conſtable told him, he had apprehended one firing an Houſe in <hi>Shooe-lane,</hi> He examined the perſon in French, and committed him to the Guard of the Souldiers, and told the Conſtable he would ſecure him, and carry him along with him; the Constable asked him if he ſhould go along with him to give his evidence, he replyed, <hi>He had done enough,</hi> but what became of the <hi>French-man</hi> he knoweth nothing,</p>
+                  <closer>
+                     <signed>Your moſt Humble Servant. <hi>S. G.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="poem">
+                        <head>Taken up at <hi>Leedes</hi> by Mr. <hi>Thawites</hi> man a Recuſant.</head>
+                        <l>
+                           <hi>Cover the Fire ye</hi> Hugonots,</l>
+                        <l>
+                           <hi>That have ſo branded us with Plotts:</hi>
+                        </l>
+                        <l>
+                           <hi>And henceforth no more Bonfires make</hi>
+                        </l>
+                        <l>
+                           <hi>Till ye avaunt in the</hi> Stygian-Lake. <hi>&amp;c.</hi>
+                        </l>
+                        <closer>
+                           <dateline>Dated <date>the 5<hi rend="sup">th</hi> of <hi>November,</hi> Anno Salutis 1666. <hi>&amp; Anno</hi> pri<g ref="char:EOLhyphen"/>mo Reſtitutionis Romanae Religionis in Anglia.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In a Letter directed from <hi>Ipſwich,</hi> for the honorable Sir <hi>Robert Brooks</hi> in the Parliament at <hi>Weſtminſter<g ref="char:punc">▪</g>
+               </hi> is intimated that about the <hi>30th.</hi> of <hi>Auguſt</hi> laſt, one of the Conſtables of <hi>Scoton</hi> in horſe-meare hundred, being upon the ſearch of that Town about Hearth-money, was told by one Mr. <hi>William Tompſon</hi> a Roman Ca<g ref="char:EOLhyphen"/>tholick in that Town, <hi>That though times were like to be ſad, yet if he found any cauſe to alter his Religion, he would ſee that he ſhould not want; and farther ſaid to him, what would you ſay if you ſhould ſee that London was burnt?</hi>
+            </p>
+            <div type="statements">
+               <head>
+                  <hi>An Affidavit of a</hi> French-man <hi>that ſaid, there was three hundred engaged in the firing the City of</hi> London.</head>
+               <p>The information of <hi>Richard Bond,</hi> of the Pariſh of <hi>Giles</hi> in the fields, Iron-monger, <hi>Samuel Page, Francis Cogin, William Coales, Edmund Dakins,</hi> and <hi>Richard Pardoe,</hi> taken the <hi>18th</hi> of <hi>September</hi> 1666. by me Sir <hi>Juſtinian Truin</hi> Knight, one of his Majeſties Juſtices of the Peace for the County of <hi>Middleſex,</hi> upon oath as follows.</p>
+               <p>
+                  <hi>Richard Bond,</hi> ſaith, That on Thurſday laſt, about twelve or one of the clock at night, there was a <hi>French-man,</hi> brought by the Watch, to the info<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mers
+<pb n="6" facs="tcp:101043:5"/>
+fathers houſe, at the ſign of the <hi>White-Hart</hi> in <hi>Kings ſtreet,</hi> taken as a ſuſpicion perſon, and the ſaid perſon being queſtioned by them the Informant, and others preſent, whether he was not one of thoſe that fired the City, or had any hand therein or any private knowledge thereof, or knew any that had deſigned it; the ſaid perſon, anſwered a great while in a perverſe manner, quite differing from the queſtions; but being farther deſired to tell the Truth, and being told, that if he were guilty, it was the only way to ſave his life, he did at firſt obſtinately deny that he knew of any Plot, whereupon a young man took the Priſoner aſide to the end of a Room, and after ſome diſcourſe between them, they both returned to the Informant, and the reſt of the company, and the ſaid young man ſaid to us plainly, in the hearing of the Priſoner the French man, <hi>That he had confeſſed that there were three hundred Frenchmen in a Plot, or Conſpiracy;</hi> upon this the Informant and others ſpake to the French man in theſe words; <hi>Well Maſter you have done very well to confeſs, and no doubt but you may have your Pardon, if you confeſs all that you know of this Plot;</hi> And thereupon farther asked him, if there were no more then three hundred perſons in the ſaid Plot? He anſwered, <hi>No, there are no more then three hundred,</hi> Then we enquired who they were, and how he came to know they were three hun<g ref="char:EOLhyphen"/>dred, to which he would give no direct anſwer, but put it off with o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her extravagant diſcourſe, and being asked why he came to St <hi>Giles</hi> Pariſh where he was apprehen<g ref="char:EOLhyphen"/>ded, <hi>He told a ſtory that he came from</hi> Iſlington-fields, <hi>where his Maſters goods were, but the goods were now removed he could not tell whether, but his Maſter bad him go up and down the fields, but would not tell him upon what occa<g ref="char:EOLhyphen"/>ſion, or for what end he was ſo to do,</hi> and he being asked whether there were three hundred men engaged in this deſign? He replyed, <hi>That there were three hundred engaged in it:</hi> And the Names of the Perſons preſent at the Priſoners Confeſſion of the Plot were, <hi>Edmund Dakings</hi> Seniour, of <hi>Holborn,</hi> neer <hi>Turn-ſtile, Littingam Bell</hi> living by <hi>Holborn,</hi> and another young-man.</p>
+               <p>The Information of <hi>William Coles</hi> of <hi>Cow-Lane London,</hi> and <hi>Samuel Page</hi> of <hi>Gyles</hi> in the <hi>Fields Weavour, Edmond Dakings,</hi> of <hi>Gyles</hi> in the <hi>Fields,</hi> and <hi>Francis Cogin</hi> of St. <hi>Andrews Holborn,</hi> and <hi>Richard Pardoe</hi> Victualler, and one other rending to the Confirmation of the foregoing <hi>Walloone.</hi>
+               </p>
+            </div>
+            <div type="letters">
+               <head>
+                  <hi>An Extract of a Letter from</hi> Heidleberge <hi>in the</hi> Palatinate <hi>September 29th.</hi> 1666.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>YOurs of the 6th. currant came to me on Wedneſday, and brought me tydings of the burning of</hi> London <hi>constantly believed amongst the Iriſh to my knowledge, this fifteen years ſince, was to happen this year, on which they do alſo promiſe to themſelves and others, the Introduction of the publick exerciſe of the Catholike Religion.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>This was ſent to Mr. <hi>John Altock,</hi> who lived in <hi>Gravel-lane</hi> in <hi>Shadwell</hi> and negotiates the buſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs of the <hi>Palatinate,</hi> and will produce the O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iginal if there be occaſion.</p>
+               <p>In a Letter to Sir <hi>John F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ederick</hi> and Mr. <hi>Nathaniel Terne,</hi> from <hi>Northamp<g ref="char:EOLhyphen"/>ton,</hi> the 8. of <hi>September</hi> 1666. ſubſcribed <hi>Henry Chowne;</hi> wherein is me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tioned: That he the ſaid <hi>Chowne</hi> had thoughts to come to <hi>London</hi> that week, but they we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in diſtraction concerning the Papiſts, fearing they would ſhew <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hemſelves all that day; and that he had been to ſearch a Papiſts houſe, within ſix miles of that place he with another Juſtice of the Peace met with the Gentlemans brother, who is a Pa<g ref="char:EOLhyphen"/>piſt
+<pb n="7" facs="tcp:101043:5"/>
+going to <hi>London,</hi> whom they ſearched, and found a Letter which he had received coming from his Siſter, twenty miles off from him, wherein is expreſſed, <hi>That a great deal of buſineſs is in hand, not to be committed to paper as the times are.</hi>
+               </p>
+            </div>
+            <div type="statement">
+               <head>
+                  <hi>Bakers</hi> Information to <hi>Ducket,</hi> concerning <hi>John Goodman,</hi> about the deſtruction of <hi>London.</hi>
+               </head>
+               <p>Upon the 9. of <hi>September</hi> 1666. being the Sunday after the Fire began in the Ci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of <hi>London,</hi> one <hi>Henry Baker</hi> of <hi>Chipnam</hi> in the County of <hi>Wilts</hi> Butcher, came and gave them this Information, That the Thurſday Se'night before the Fire began in <hi>London,</hi> it being his fortune, coming from the <hi>Devizes</hi> Market, to fall into the company of one <hi>John Goodman</hi> Husbandman, who diſcourſing with him about a Yoak of Oxen, as is inſerted before in the Report.</p>
+            </div>
+            <div type="statement">
+               <head>The Information of one <hi>Cherrel</hi> Schoolmaſter in <hi>Enfield.</hi>
+               </head>
+               <p>Upon Friday <hi>Auguſt</hi> the 31. Mrs <hi>St. George</hi> and her eldeſt daughter <hi>Suſan,</hi> both Popiſh Recuſants, came to viſit Mrs. <hi>Rebeccah Eeves</hi> at her houſe in <hi>Enfield,</hi> where ſpeaking concerning the Seſſion of the Parli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment drawing near, Mrs. <hi>St. George</hi> told her, <hi>That ſome were like to be called to account for a plot;</hi> being asked for what? told her in her ear, <hi>For burning the City.</hi> When Mrs <hi>Eeves</hi> heard of the Fire, and going to a place where ſhe might ſee it, ſhe met with Mrs. <hi>Suſanna St. George,</hi> and among other diſcourſe, told her how much her mothers words which ſhe ſpake before the Fire, did run in her thoughts, which ſhe repeated to her daughter; who made this reply, <hi>That her Mother was very apt to talk, and that ſhe had been forc'd to keep her Mother within doors during the Fire, fearing that ſhe ſhould talk.</hi> After this deſtruction by fire, Mrs. <hi>Eeves</hi> met with Mr. <hi>Coale,</hi> another Re<g ref="char:EOLhyphen"/>cuſant, and one of the ſame Family; ſhe alſo related Mrs. <hi>St. Georges</hi> words to him; who made this return, <hi>That ſhe was a worthy woman to keep counſel.</hi> The Lady <hi>St. George</hi> at <hi>Enfield</hi> at the Lord of <hi>Lincolns</hi> houſe, declared to M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s. <hi>Rebecca Eeves, That in few days the City of London ſhould be in aſhes.</hi> This was ſpoken about Two days before the Fire happened.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>Mrs. <hi>Eeves</hi> of <hi>Enfield</hi> before Mr. <hi>Holland</hi> and Mr. <hi>Marvill,</hi> Members of Parliament, <hi>Decemb.</hi> 20. 1666 concerning Mrs. <hi>St. Gloege.</hi>
+                           </head>
+                           <p>Mrs. <hi>Rebecca Eeves</hi> of <hi>Enfield,</hi> three or four days, or within a week before the Fire, receiving a viſit in her own houſe from Mrs. <hi>St. George,</hi> among other diſ<g ref="char:EOLhyphen"/>courſe Mrs. <hi>St. George</hi> asked her, <hi>What news ſhe heard? and if ſhe knew when the Parliament ſate?</hi> She reply'd; <hi>She thought ſuddenly.</hi> The other aſked, <hi>If Mrs.</hi> Eeves <hi>heard of any that were to be called in queſtion before the Parliament?</hi>
+                           </p>
+                           <sp>
+                              <speaker>Eeves</speaker>
+                              <p>
+                                 <hi>About what?</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>St George.</speaker>
+                              <p>
+                                 <hi>About a Plot.</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Eeves.</speaker>
+                              <p>
+                                 <hi>What Plot?</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>St. George.</speaker>
+                              <p>
+                                 <hi>About firing the City.</hi>
+                              </p>
+                           </sp>
+                           <sp>
+                              <speaker>Eeves.</speaker>
+                              <p>
+                                 <hi>I hope God will preſerve the City; people uſe not to be called in queſtion before the fact.</hi>
+                              </p>
+                           </sp>
+                           <p>So that Diſcourſe was waved at <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>hat time. At the time of the Fire Mrs. <hi>Eeves</hi> went out to look towards the fire, and Mrs. <hi>St. George</hi> and one in the
+<pb n="8" facs="tcp:101043:6"/>
+company (but ſhe cannot fix the perſon) replyed, <hi>A fine woman to keep Counſel,</hi> af<g ref="char:EOLhyphen"/>ter the fire Mrs <hi>St. Georges</hi> daughter came to Mrs. <hi>Eeves</hi> houſe, Mrs. <hi>Eeves</hi> asked her, if ſhe remembred what her Mother ſaid? who anſwered, <hi>My Mother is ſuch a wo<g ref="char:EOLhyphen"/>man ſhe will ſpeak what ſhe thinks,</hi> And afterwards ſaid, <hi>That ſhe had much ado to keep her Mother in, in the time of the fire, for fear ſhe ſhould ſpeak ſomething, that ſhe might be queſtioned for,</hi> At this inſtant diſcourſe Mrs. <hi>Eeves</hi> daughter and others of her family were preſent <hi>St. George</hi> and his wife and family have left <hi>Enfield</hi> about ſix weeks agone, and there are many more in the Neighbourhood: Its reported that at the Houſe of Mr. <hi>Cooke</hi> and other Recuſants there was great Coaching, drinking and rejoycing at the time of the fire. <hi>December 20th.</hi> 1666.</p>
+                           <closer>
+                              <signed>Rebecca Eeves.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="letter">
+               <head>A Letter directed and ſent by a Papiſt to Mr. <hi>Lamb,</hi> from <hi>Tarleton</hi> in <hi>Leſterſhire,</hi> from a perſon unknown as follows.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My friend,</salute>
+                     </opener>
+                     <p>YOur preſence is now more neceſſary at <hi>London</hi> then where you are, that you may determine how to diſpoſe of your Eſtate in <hi>Southwark,</hi> for it is de<g ref="char:EOLhyphen"/>termined by humane Council (if not fruſtraed by divine power) that your Liberty will ſhortly be deſtroyed; your capacity is large enough to understand; proceed as your Genius ſhall inſtruct.</p>
+                     <closer>
+                        <salute>Vale, cave, cave, fuge.</salute>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="statements">
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <opener>
+                              <dateline>The Liberty of <hi>Haring</hi> in the County of <hi>Eſſex.</hi>
+                              </dateline>
+                           </opener>
+                           <head>
+                              <hi>The Information of</hi> Robert Hubert <hi>a French-man taken at</hi> Rumford <hi>the</hi> 11th. <hi>of</hi> September 1666. <hi>before</hi> Cary Harvie, <hi>alias</hi> Milemay <hi>Eſquire one of the Juſtices of Peace for the Liberty of the County aforeſaid.</hi>
+                           </head>
+                           <p>HE ſaith that about Midlent he came out of <hi>France,</hi> with one <hi>Stephen Pedilow</hi> a Frenchman and ſtayd with <hi>Pedilow</hi> about four moneths as his Companion, and then they came together into <hi>England</hi> in a Sweediſh Ship, called the <hi>Skipper,</hi> which was laden with Iron, Steel and Copper plates, and ſaith, that the Maſters name of the Ship is alſo <hi>Skipper,</hi> and that <hi>Pedilow</hi> kept the Examinant on board that Ship which lay at St. <hi>Ka<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>harines</hi> brewhouſe, but <hi>Pedilow</hi> himſelf went ſeveral times into the City and came on board again, and had often private diſcourſe with the ſaid Maſter of the Ship, and ſaith that when the City was on fire, he this Examinant was ſent out by <hi>Pedilow,</hi> who had given him a Fire ball, and bad him fire an houſe neer the Kings-Pallace, for which the ſaid <hi>Pedilow</hi> gave him a ſhilling, and promiſed him a greater Reward when he came into <hi>France</hi> which fireball this ſaid Examinant ſaith, he fired and threw into the window of an houſe neer White-hall on Tueſday night, which fired the ſame houſe, and he ſtayed there and ſaw it burn two or three hours; and farther ſaith that <hi>Pedilow,</hi> bad him not make uſe of this firebal till he ſaw the City on fire, and then to do it, which he did accordingly, and then went to find the Ship, but it was gone; and further ſaith, that <hi>Pedilow</hi> had two fire balls himſelf, and the ſaid Examinant ſaid, other divers frenchmen have fireballs, and ſaith alſo, that
+<pb n="9" facs="tcp:101043:6"/>
+when this Examinant came laſt to the Ship, the ſaid Maſter directed him to finde his comrade <hi>Pedilow</hi> at his Chamber or Lodging, but at what houſe he confeſſed not, and ſaid that not finding the Ship aforeſaid, he came this way to go towards the Sea Coaſts, in hope to finde the ſaid Ship, or ſome other to get a paſſage home if be could.</p>
+                           <closer>
+                              <signed>Robert Hubert,</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="statement">
+                           <head>
+                              <hi>The Information of</hi> John Lowman, <hi>Keeper of his Majeſties Goale for the County of</hi> Surry.</head>
+                           <p>IN obedience to an order directed to me from the Right Honorable the Committy of the Houſe of Commons, then ſitting in the Speakers Chamber the 20th of this inſtant <hi>October 1666 on</hi> Thurſday the 4th. of <hi>October,</hi> according to my order I did carry <hi>Robert Hubert</hi> to St. <hi>Katharines-Tower</hi> by water to let me know where the Sweediſh Ship lay, that brought him and other Frenchmen from <hi>Stockholm,</hi> and he brought me to the Dock, over againſt Mr. <hi>Corſellis</hi> his Brewhouſe, and did verifie to me, and Mr. <hi>Corſellis,</hi> that the Ship lay there till ſuch time, as he with Mr. <hi>Pedilow</hi> and others, did goe and ſet fire to Mr <hi>Farmers</hi> houſe; and the Examinant ſaith farther, that Mr. <hi>Pedilow</hi> did fix two fire balls to a long pole, and that he the ſaid <hi>Robert Hubert</hi> did ſix one in the ſame manner, and did put it in at the ſame window, but withal the enquiry, and diligence I could make and uſe, I could neither finde, nor hear of any ſuch Ship or Veſſel; and from thence I car<g ref="char:EOLhyphen"/>ried the ſaid <hi>Robert Hubert</hi> to <hi>Tower-hill</hi> and deſired him to ſhew me the houſe they did fire, and he ſaid it was neer the Bridge, but we went along <hi>Thames-ſtreet,</hi> towards <hi>London b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>idge,</hi> but before we came at the Bridge, the ſaid <hi>Robert Hubert</hi> ſaid, the ſaid houſe was up there; (and pointed with his hand up <hi>Pudding-lane,)</hi> ſo I had him go to the place, and he went along upon the Bricks and rubbiſh, and made a ſtand, then I asked one <hi>Robert Paine</hi> a Porter, which was the Ba<g ref="char:EOLhyphen"/>kers houſe, and he told me that was the houſe where <hi>Hubert</hi> ſtood, ſo I went to <hi>Robert Hubert</hi> and ſtood by him, turning my back towards the Bakers houſe and demanded which houſe it was he fired, directing to ſome houſe con<g ref="char:EOLhyphen"/>trary to that houſe, but he turning himſelf about, ſaid, <hi>This was the houſe,</hi> (point<g ref="char:EOLhyphen"/>ing to the Bakers houſe) <hi>that was firſt fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ed;</hi> Then by reaſon of his lameneſs, I ſet him on an horſe and carried him to other places, but no other place he would acknowledge but nodded back again to the Bakers houſe, and ſaid again, <hi>That was the Bakers houſe,</hi> pointing to the ſaid Bakers houſe: And this I do humbly certifie, to the Honourable Committy by me <hi>John Lowman</hi> Keeper of his Majeſties Goale, for the County of <hi>Surrey.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+         <div type="continuation_of_report">
+            <head>At the Committee appointed to receive Information touching the inſolency of Popiſh Preiſts, and inſo<g ref="char:EOLhyphen"/>lency and increaſe of Popery.</head>
+            <p>
+               <hi>ORdred that the ſeveral Informations precedent in perſuance of the ſaid power of the Committee be reported to the Houſe in reference to the Inſolency of Popiſh Preiſts, and inſolency and encreaſe of Papiſts.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:101043:7"/>
+AS to the encreaſe of Popery <hi>Mr. Hancok</hi> Miniſter of <hi>Chillnock</hi> informes, that meeting with one Mr. Tompſon about a month ſince coming from Maſſe out of <hi>Somerſet</hi> Houſe-Chapple, and diſcourſing with him about his Religion, asked him if there were many turned lately, To which <hi>Mr. Tompſon</hi> anſwered, <hi>Thouſands,</hi> and being demanded what encouragement was to it? Replyed, <hi>There will be a change ſuddenly.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="report">
+                        <head>The Report of his carriage at the Committee.</head>
+                        <p>
+                           <hi>Mr. Tompſon</hi> being ſummoned before the Committee, carried himſelf very inſolent<g ref="char:EOLhyphen"/>ly, they have commanded me to report it, Being asked whether he had not a Shop in <hi>Summerſet houſe,</hi> where Popiſh books and Popiſh knacks are ſold? He ſaid, <hi>He had, and that his men ſold ſuch Books and Beads and other things,</hi> and ſaid there was one Crucifix and new Reliques, but wiſhed he had ſome good, he ſaid he was a <hi>Roman Catholick,</hi> and thanked God for it, he ſaid he was no <hi>Prieſt,</hi> but wiſhed he were in a capaci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y to be <hi>One,</hi> he ſaid he had not taken the O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ths of Alleage<g ref="char:EOLhyphen"/>geance and Supremacy, nor would he, he ſaid he would take any Oath that any Chriſtian Prince ſhould require, but not the Oath of Allegiance, intimating ſome mixture in it, he ſaid he had taken then the Oath of Allegiance to the King of <hi>Spain,</hi> and was a Subject to him.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Mr, Aſh</hi> miniſter of <hi>Cluppel</hi> in <hi>Surrey,</hi> Informs, That being at <hi>Cofield</hi> in <hi>Leſter<g ref="char:EOLhyphen"/>ſhire</hi> this laſt Summer, he ſaw a great reſort on sunday to <hi>Cofield-houſe,</hi> the houſe of a Papiſt, and asking ſome that were going thither, what the occaſion of their re<g ref="char:EOLhyphen"/>ſort thither was? they told him they were going to Maſs, and that one <hi>Mr. Robin<g ref="char:EOLhyphen"/>ſon</hi> Preiſt, did ſay Maſſe, <hi>Mr. Aſh</hi> did likewiſe inform, that he thought the great number of thoſe that went thither to Maſſe on Sunday at that houſe, was as great as the Proteſtants that went to the Pariſh Church.</p>
+            <p>
+               <hi>Mr. Wiling</hi> Deputy Ordinary of <hi>Middleſex,</hi> did inform, that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his accuſtomed attendance on the Priſoners at <hi>Newgate</hi> about the time of Execution, that <hi>Romiſh Preiſts</hi> and particularly one <hi>Mr. Harvey</hi> a Jeſuit, have conſtantly uſed to reſort the Priſon at thoſe times, and do perſwade the priſoners to become Papiſts, and that divers have been altered in their Religion by him, and turned to Popery.</p>
+            <p>
+               <hi>Mr. Hatton</hi> informs, that on the <hi>6th</hi> of <hi>October,</hi> he went to <hi>Newgate,</hi> and meet<g ref="char:EOLhyphen"/>ing with one <hi>Haward</hi> under Keeper at the door, deſired to ſpeak wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>Hubert</hi> the <hi>Frenchman,</hi> who was then condemned, <hi>Haward</hi> told him he could not ſpeak with him yet, for <hi>Mr. Harvey</hi> the Queen Mothers Confeſſor was in private with him, and ſaid, that this <hi>Harvey</hi> uſed frequently to come to the Priſon after Condemnation, and where one priſoner dyed a Proteſtant, many did dye Papiſts, <hi>Mr. Hatton</hi> ſaid, that after ſome ſtay he ſaw <hi>Mr. Harvey</hi> come out from <hi>Hubert,</hi> and then he was admitted to have ſeen him.</p>
+            <p>
+               <hi>Mr. Hawking</hi> Keeper of <hi>Newgate</hi> did Inform that the ſaid <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Harvey</hi> the Jeſuit did frequent the Priſon under pretence of the Queens charity, and did ſpend much time with the Priſoners in private, and particularly did ſo before laſt Execution, night after night.</p>
+            <p>
+               <hi>Mr Hawking</hi> ſaid likewiſe, that of the Nine that ſuffered, eight dyed Papiſts whereof ſome he knew were Proteſtants when they came into the Priſon.</p>
+            <p>
+               <hi>It appeared upon ſevearl Infoamations, that Mr.</hi> Harvey <hi>and other Preiſts, did not only reſort to</hi> Newgate <hi>at times of Execution, but likewiſe to the</hi> Whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-Lyon <hi>in</hi> Southwark, <hi>and other places in the Countrys, and uſed their endeavours to pervert dying Priſoners.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:101043:7"/>
+               <hi>Thomas Barnet</hi> late a Papiſt informes, that when he was a Papiſt, and reſorted to Gentlemens houſes in <hi>Barkſhire</hi> that were Papiſts, there was alſo in every Gentlemans houſe a Papiſt Preiſt, and inſtanced the houſes of divers private Gentlemen in that County, &amp; others did in<g ref="char:EOLhyphen"/>form the like in <hi>Surrey.</hi>
+            </p>
+            <p>Mr <hi>Cottman</hi> did informe (that one Mr. <hi>Compert)</hi> late a Preacher at S. Hall, did in diſcourſe tell him the ſaid <hi>Cottman,</hi> that the Judge<g ref="char:EOLhyphen"/>ments of God upon this Kingdom by the Plague laſt year, and lately by the fire in <hi>London,</hi> were come upon the Land &amp; People, for their for<g ref="char:EOLhyphen"/>ſaking the true Roman Catholick Religion, and ſhaking off their obe<g ref="char:EOLhyphen"/>dience to the <hi>Pope,</hi> and that if they would return to the Church of <hi>Rome,</hi> the <hi>Pope</hi> would rebuild the City at his own charge; <hi>Compert</hi> ſaid like<g ref="char:EOLhyphen"/>wiſe to the ſaid <hi>Cottman,</hi> That if he would come and hear him preach the next Sunday, at his houſe in <hi>Queens-ſtreet,</hi> he would give twenty reaſons to prove, that the Roman Catholick was the true Religion, and his the falſe, and that one Bible had a thouſand falſities in it, and that there was no true Scripture but at <hi>Rome,</hi> and in their Church.</p>
+            <p>
+               <hi>Compert</hi> at the Committee confeſſed, that he had formerly taken Orders from the Church of <hi>Rome,</hi> but ſaid he had now renounced that Church, and taken Orders in <hi>England.</hi>
+            </p>
+         </div>
+         <div type="continuation_of_report">
+            <head>
+               <hi>The next thing is the Information of their Inſolency; and I ſhall begin with their ſcorning and deſpiſing of the</hi> Bible.</head>
+            <p>ONe <hi>Thomas Williams,</hi> an Officer in Sir <hi>William Bowyers</hi> Regi<g ref="char:EOLhyphen"/>ment, informs, That one <hi>Audley</hi> a Papiſt ſeeing a woman read<g ref="char:EOLhyphen"/>ing in a Bible, asked her why ſhe read in that profane <hi>Presbyterian</hi> Bi<g ref="char:EOLhyphen"/>ble, and ſaid, <hi>a Play-Book was as good.</hi>
+            </p>
+            <p>
+               <hi>Thomas Barret</hi> of <hi>Bingfield</hi> informs, That being at one Mr. <hi>Youngs</hi> houſe in <hi>Bingfield,</hi> at Battlemew tide laſt, Mr. <hi>Young</hi> ſaid to the bro<g ref="char:EOLhyphen"/>ther of this <hi>Thomas Barret,</hi> in his hearing, <hi>That within two years there ſhould not be a Proteſtant in</hi> England.</p>
+            <p>
+               <hi>Thomas Barnet</hi> informs, That being at Mr. <hi>Doncaſters</hi> houſe in <hi>Bing<g ref="char:EOLhyphen"/>field</hi> one Mr. <hi>Shellers</hi> ſon in law to Mr. <hi>Doncaſter,</hi> and both Papiſts, ſaid to this Informant, who was then likewiſe a Papiſt, <hi>The people take</hi>
+               <pb n="12" facs="tcp:101043:8"/>
+               <hi>me for a poor fellow, but I ſhall find a thouſand or two thouſand pounds to raiſe a party of Horſe, to make Mr.</hi> Hawthorns <hi>and Mr.</hi> Blackwels <hi>fat guts ly on the ground; for it is no more to kill an Heretick, than to kill a Graſhopper; and that it was happy for this</hi> Thomas Barnet <hi>that he was a Catholick, for by this means he ſhould be one of thoſe that ſhould be mounted.</hi>
+            </p>
+            <p>Mr. <hi>Linwood</hi> a Scrivener in White-chappel, informs, That about the 20. of <hi>October</hi> laſt meeting with one <hi>Badley</hi> a Papiſt, and diſcour<g ref="char:EOLhyphen"/>ſing with him, told him, <hi>That there was amongſt the Papiſts as great a Deſign as ever was in</hi> England, <hi>and he thought it would be executed ſud<g ref="char:EOLhyphen"/>denly.</hi> Being asked how many Papiſts there were about <hi>London?</hi> He anſwered, <hi>About ſeaven thouſand, and in</hi> England <hi>an hundred thouſand well armed.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="affidavit">
+                        <head>Mr. <hi>Oaks</hi> his <hi>Affidavit.</hi>
+                        </head>
+                        <p>Mr. <hi>Oaks</hi> a Phyſician dwelling in <hi>Shadwel,</hi> informs, That a little after the burning of the City of <hi>London,</hi> one Mr. <hi>Carpenter</hi> a Miniſter came to his houſe on Tower-wharf, and ſpake to him to this purpoſe: <hi>I will not ſay I am a Papiſt, but this I will ſay, I had rather dy the death of the Papiſts, and that my ſoul ſhould be raiſed with their reſurrection, than either of Presbyterian, Independent or Anabaptiſt; and I tell you, the Papiſts have hitherto been his Majeſties beſt Fortification; for when Presbyterians, Independents and Anabaptiſts forſook and oppoſed him, they ſtood by him and helped him; and take it on my word, the Papiſts in a ſhort time, will lay you all as low as that houſe;</hi> (pointing to an houſe that was demoliſhed) <hi>for they are able to raiſe Forty thouſand men, and I be<g ref="char:EOLhyphen"/>lieve, the next work will be cutting of throats.</hi> This was ſworn by Mr. <hi>Oaks,</hi> before Sir <hi>John Frederick</hi> member of the Houſe.</p>
+                        <p>Mr. <hi>Pilkington</hi> being preſent when the words were ſpoken, doth af<g ref="char:EOLhyphen"/>firm them all.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Henry Young</hi> a Diſtiller of Hot-waters, informs, That about the month of <hi>April</hi> in the year 1661, being in the Jeſuites College in <hi>An<g ref="char:EOLhyphen"/>twerp,</hi> one <hi>Powel</hi> an Engliſh Jeſuite perſuaded him to turn a Roman Catholick, and ſaid, <hi>That if he intended to ſave his life and eſtate, he had beſt turn; for within ſeaven years he ſhould ſee</hi> England <hi>of that Religion. Young</hi> replied, <hi>the City of</hi> London <hi>will never endure it. Powel</hi> anſwer<g ref="char:EOLhyphen"/>ed, <hi>That within five or ſix years they would breeak, the power and ſtrength</hi>
+               <pb n="13" facs="tcp:101043:8"/>
+               <hi>of</hi> London <hi>in pieces, and that they had been contriving it this twenty years.</hi> The ſaid <hi>Young</hi> did likewiſe inform, that after coming into <hi>England,</hi> one <hi>Thompſon</hi> and one <hi>Copernel,</hi> both Papiſts, did ſeveral times ſay to him, <hi>That within five or ſix years at fartheſt, the Roman Catholick Reli<g ref="char:EOLhyphen"/>gion ſhould be all over this Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Joſeph Goodwin</hi> of <hi>Darking</hi> in the County of <hi>Surrey,</hi> informs, that about a month ſince, one <hi>Edward Complin</hi> a Papiſt ſaid to him, <hi>You muſt all be Papiſts ſhortly, and that now he was not aſhamed to own himſelf a Roman Catholick, and to own his Prieſt,</hi> (naming two that were in <hi>Darking</hi> in the houſe with two Papiſts) and likewiſe ſaid, <hi>that in</hi> 24 <hi>hours warning the Papiſts or Roman Catholicks could raiſe thirty thouſand men as well armed as any in Chriſtendom.</hi>
+            </p>
+            <p>
+               <hi>William Weaver</hi> of <hi>Darking,</hi> informs, That the ſaid <hi>Ed. Copernel</hi> did tell him, <hi>The Roman Catholicks in</hi> England, <hi>could in</hi> 24 <hi>hours raiſe</hi> 30000 <hi>Horſe and arms;</hi> and upon ſaying ſo, pull'd out his Crucifix and Bedes, and ſaid, <hi>He was not aſhamed of his Religion.</hi>
+            </p>
+            <p>
+               <hi>John Graunger</hi> of <hi>Darking,</hi> informs, that about a year ſince being in his houſe reading the Bible, one <hi>Thomas Cooling,</hi> a Papiſt, ſaid to him, <hi>Are you ſtill a Church-goer? Had you not better turn Roman Catholick? If you ſtay whilſt you are fetched, none will abide you.</hi> And ſaid further, <hi>That there was a man beyond the ſeas had propheſied, That</hi> in Anno 1666. <hi>if the King did not ſettle the Roman Religion, in</hi> England, <hi>he would be ba<g ref="char:EOLhyphen"/>niſhed out of the Kingdom, and all his poſterity.</hi> And <hi>Cooling</hi> further ſaid, <hi>That he being lately turned a Roman Catholick, he would not be a Proteſtant again for all the world;</hi> wiſhing <hi>Graunger</hi> again, in the hear<g ref="char:EOLhyphen"/>ing of his Wife, (which ſhe affirmed to the Committee) to turn his Religion; for all the ſaid Propheſies would come to paſs in the year 1666.</p>
+            <p>
+               <hi>Robert Holloway</hi> of <hi>Darking</hi> aforeſaid, informs, That one <hi>Stephen Griffin,</hi> a Papiſt, ſaid to him, <hi>That all the bloud that was ſhed in the laſt civil War, was nothing to that that would be ſhed this year in</hi> England. <hi>Holloway</hi> demanded a reaſon thereof, in regard the Kingdom was in p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace, and no likelihood of trouble, and ſaid, Do you Papiſts intend to riſe and cut our throats when we are aſleep? <hi>Griffin</hi> anſwered, <hi>that it is no matter, if you live you ſhall ſee it.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:101043:9"/>
+               <hi>Ferdinand de Marcedo</hi> a Portugal, and ſome few years ſince a Ro<g ref="char:EOLhyphen"/>man Papiſt, but turned Proteſtant, informs, That one Father <hi>Banto,</hi> a Jeſuite, did the laſt year tell him at <hi>Paris, That if all</hi> England <hi>did not return to the Church of</hi> Rome, <hi>they ſhould be deſtroyed the next year.</hi>
+            </p>
+            <p>Mr. <hi>Samuel Wightman</hi> of the middle Temple, Bariſter, informs, That about two years ſince, one Mr. <hi>Geniſon,</hi> a Pop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh Prieſt, wiſhed him to turn Catholick, and he ſhould want neither profit nor preferment, Mr. <hi>Wightman</hi> obj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, that he intended to practiſe the <hi>Law,</hi> which he could not do if he turned Papiſt, for he muſt take the Oath of <hi>Su<g ref="char:EOLhyphen"/>premacy</hi> at his being called to the <hi>Bar,</hi> and if he were a Papiſt he muſt not take it. Mr. <hi>Geniſon</hi> replied, <hi>Why not take the Oath? It is an un<g ref="char:EOLhyphen"/>lawful Oath and void</hi> ipſo facto; And after ſome pauſe, ſaid further; <hi>Firſt take the Oath, and then I will convert you;</hi> And further ſaid, <hi>That the King would not own himſelf Head of the Church;</hi> And alſo ſaid, <hi>You in</hi> England <hi>that ſet up the</hi> DUTCH <hi>to deſtroy our Religion, they ſhall be the men to P<g ref="char:V">Ʋ</g>LL DOWN YO<g ref="char:V">Ʋ</g>RS.</hi>
+            </p>
+            <p>
+               <hi>Mun Stanley</hi> an Officer in the Duke of <hi>Ormonds</hi> own Regiment, in<g ref="char:EOLhyphen"/>forms, That coming lately out of <hi>Ireland,</hi> and with him one <hi>Oriel,</hi> who owned himſelf of the Order of <hi>Jeſuites,</hi> and commiſſionated from the Pope to be Lord Primate of <hi>Ireland</hi> and Archbiſhop of <hi>Armagh; O<g ref="char:EOLhyphen"/>riel</hi> diſcourſing with him, told him, <hi>That there had been a difference be<g ref="char:EOLhyphen"/>tween him and ſome others of the Jeſuites in</hi> Ireland, <hi>and that particularly one of the occaſions was, that one Father</hi> Walſh <hi>and ſome others of the Je<g ref="char:EOLhyphen"/>ſuites there, did diſpenſe with the Papiſts in</hi> Ireland, <hi>to take the Oaths of Allegiance and Supremacy, by virtue of a ſtanding Commiſſion from the Pope they had, to do it during this Kings Reign; and</hi> Oriel <hi>thought they ought not to do it by virtue of the ſtanding Commiſſion, but ſhould take a new Commiſſion from the Pope every year to do it.</hi> And ſaid likewiſe, <hi>That he brought Eight Boys out of</hi> Ireland <hi>to carry to</hi> Flanders <hi>to breed up in the Colleges.</hi> And at his taking ſhip to go into <hi>Flanders,</hi> he ſhook his feet towards <hi>England,</hi> and termed it <hi>Egypt,</hi> and ſaid, <hi>He would not return to</hi> England, <hi>till he came with Fifty thouſand at his heels.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
